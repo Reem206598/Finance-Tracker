@@ -2,6 +2,8 @@
 
 A simple React-based Personal Finance Tracker app that helps users manage their incomes and expenses. The app allows users to add, view, and manage their financial transactions in real-time.
 
+![image](https://github.com/user-attachments/assets/b859f67c-849e-4078-9899-4e93bf408c36)
+
 ## Features
 
 - **Track Income and Expenses**: Add transactions as income (positive) or expenses (negative) and see your balance in real-time.
